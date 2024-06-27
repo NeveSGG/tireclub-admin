@@ -1,0 +1,21 @@
+{
+  "id": "id",
+  "name": "Название",
+  "type": "Тип",
+  "sku": "Артикул",
+  "price": "Цена",
+  "discount_price": "Скидочная цена",
+  "unit_type": "Тип единицы",
+  "description": "Описание",
+  "video_review": "Видеообзор",
+  "rating": "Рейтинг",
+  "seo_title": "SEO Заголовок",
+  "seo_description": "SEO Описание",
+  "text_content": "Контент",
+  "sort": "Сортировка",
+  "created_at": "Дата создания",
+  "updated_at": "Дата редактирования",
+  "parent_id": "id родительского элемента",
+  "root_id": "id корневого элемента",
+  "slug": "Человекопонятный URL"
+}

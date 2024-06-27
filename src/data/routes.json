@@ -1,0 +1,80 @@
+{
+  "products": {
+    "key": "8544PamBpwt6",
+    "url": "products",
+    "name": "Товары",
+    "icon": "shopping_cart"
+  },
+  "tags": {
+    "key": "aJRhS9TxRTPE",
+    "url": "tags",
+    "name": "Теги",
+    "icon": "label"
+  },
+  "categories": {
+    "key": "HWprHsf7ptRV",
+    "url": "categories",
+    "name": "Категории",
+    "icon": "category"
+  },
+  "brands": {
+    "key": "JLPtFJNakv6L",
+    "url": "brands",
+    "name": "Бренды",
+    "icon": "sell"
+  },
+  "regions": {
+    "key": "jywYEUSfFG6Y",
+    "url": "regions",
+    "name": "Регионы",
+    "icon": "place"
+  },
+  "reviews": {
+    "key": "Qp3V3dzTnAac",
+    "url": "reviews",
+    "name": "Отзывы",
+    "icon": "rate_review"
+  },
+  "storages": {
+    "key": "U3wBSXuF5vah",
+    "url": "storages",
+    "name": "Склады",
+    "icon": "warehouse"
+  },
+  "vacancies": {
+    "key": "BSu6sa8RDY8F",
+    "url": "vacancies",
+    "name": "Вакансии",
+    "icon": "work"
+  },
+  "car_models": {
+    "key": "dR6xHjLXJh6M",
+    "url": "car_models",
+    "name": "Модели автомобилей",
+    "icon": "directions_car"
+  },
+  "car_brands": {
+    "key": "QU3abccSw5W8",
+    "url": "car_brands",
+    "name": "Бренды автомобилей",
+    "icon": "directions_car"
+  },
+  "car_bodies": {
+    "key": "9CUfZhwmJ9eq",
+    "url": "car_bodies",
+    "name": "Кузова автомобилей",
+    "icon": "directions_car"
+  },
+  "car_modifications": {
+    "key": "PeNmwA44GEme",
+    "url": "car_modifications",
+    "name": "Модификации автомобилей",
+    "icon": "directions_car"
+  },
+  "car_generations": {
+    "key": "euyA25ayYCdA",
+    "url": "car_generations",
+    "name": "Поколения автомобилей",
+    "icon": "directions_car"
+  }
+}
